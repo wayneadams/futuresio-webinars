@@ -43,7 +43,7 @@ Install these libraries by opening your terminal (or cmd.exe in windows) and run
 
 ```bash
 $ pip install pandas-datareader
-$ pip install fix-yahoo-finance
+$ pip install yfinance
 $ pip install seaborn
 ```
 
